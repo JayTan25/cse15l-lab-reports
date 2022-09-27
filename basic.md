@@ -14,3 +14,9 @@ and other tools that may help my jouney along the way.
 - C++
 
 
+![Screeshot](Screenshot.jpg)
+
+# This the link to my other page
+
+![Lab Report 1](https://jaytan25.github.io/cse15l-lab-reports/.html)
+
