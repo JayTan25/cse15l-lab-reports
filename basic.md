@@ -6,3 +6,11 @@ and other tools that may help my jouney along the way.
 1. Coding
 2. basketball
 3. sketching
+
+*Coding languages*
+- python
+- javascript
+- java
+- C++
+
+
