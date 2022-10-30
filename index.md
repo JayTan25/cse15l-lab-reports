@@ -15,3 +15,7 @@ and other tools that may help my jouney along the way.
 - java
 - C++
 
+
+# Lab Report 2: Severs and Bugs
+
+
