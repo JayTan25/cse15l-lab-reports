@@ -16,32 +16,32 @@ The `/` before the word `start` indicates that we are trying to find and replace
 In this case, there is a last `/` in this command and signifies certain flags for the program. The `g` flag tells the program to execute after each occurence in the line, not just the first. The `c` flag tells the program that we want to confirm for each match what we want to do. 
 
 Once this sequence is executed, the program will find the first occurence of the word `start`. Because of the flag `gc`, the program asks us if we want to replace the `start` with `base`.
-### First Occurence
+### First Occurence - KeyStrokes: `y[Enter]` Keycount: `2`
  ![n](week-7-screenshots/yn1.jpg)
  This is the first occurence of the `start` in the file. After confirmation, `start` is replaced with `base`. 
 ![n](week-7-screenshots/base1.jpg)
 
-### Second Occurence 
-![n](week-7-screenshots/yn2.jpg)
+### Second Occurence - Keystrokes: `y[Enter]` Keycount: `2`
+![n](week-7-screenshots/yn2.jpg) 
  This is the second occurence of the `start` in the file. After confirmation, `start` is replaced with `base`. 
 ![n](week-7-screenshots/base2.jpg)
 
-### Third Occurence 
+### Third Occurence - KeyStrokes: `y[Enter]` Keycount: `2`
 ![n](week-7-screenshots/yn3.jpg)
  This is the third occurence of the `start` in the file. After confirmation, `start` is replaced with `base`. 
 ![n](week-7-screenshots/base4.jpg)
 
-### Fourth Occurence 
+### Fourth Occurence - Keystrokes: `y[Enter]` Keycount: `2`
 ![n](week-7-screenshots/yn4.jpg)
  This is the fourth occurence of the `start` in the file. However, since this occurence of `start` is in another function, we do not confirm the replacement, thus not changing it.  
 ![n](week-7-screenshots/base3.jpg)
 
 
-### 7. `:wq<Enter>`
+### 7. `:wq<Enter>` Keycount: `4`
 By typing out `:wq`, we are saving the changes that we have made and exiting the file. We then press enter to execute our line. 
 ![dwibase](week-7-screenshots/wq.jpg)
 
-### Total Keys: In total, this sequence contained `22` key presses!!
+### Total Keys: In total, this sequence contained `28` key presses!!
 In 
 
 ## Part 2 
